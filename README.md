@@ -14,7 +14,7 @@
 2. [Vancouver    2019 January to December](https://www.mobibikes.ca/en/system-data)
 
 ## Dataset Summary (What are we targeting for with this dataset?)
-With this dataset, we are aiming to look at if the bike share program is a necessity that can be implemented in other cities. By analysing patterns of ridership usage, it allows us to interpret the data. Which, in return, suggests a better comprehension of the trends concerning the Bike Share program. We aim to look at factors such as trip start time, trip end time, trip duration, trip start station, trip end station, and user type between the cities Toronto and Vancouver in 2019. An analysis of the effectiveness and efficiency of the bike share program in Toronto and Vancouver will onset the decision to implement this program in other cities as an eco and user-friendly program promoting health, eco-friendly transportation and tourism.
+With this dataset, we are aiming to look at if the bike share program is a necessity that can be implemented in other cities. By analysing patterns of ridership usage, it allows us to interpret the data. Which, in return, suggests a better comprehension of the trends concerning the Bike Share program.The Bike Share Toronto Ridership data contains trip data, including:trip start time, trip end time, trip duration, trip start station, trip end station, and user type between the cities Toronto and Vancouver in 2019. An analysis of the effectiveness and efficiency of the bike share program in Toronto and Vancouver will onset the decision to implement this program in other cities as an eco and user-friendly program promoting health, eco-friendly transportation and tourism.
 
 
 ## Key Questions
